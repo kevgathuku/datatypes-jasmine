@@ -1,0 +1,27 @@
+{
+  "name": "datatypes-jasmine",
+  "version": "1.0.0",
+  "description": "A JavaScript datatype checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevgathuku/datatypes-jasmine.git"
+  },
+  "keywords": [
+    "jasmine"
+  ],
+  "author": "Kevin Ndung'u",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevgathuku/datatypes-jasmine/issues"
+  },
+  "homepage": "https://github.com/kevgathuku/datatypes-jasmine#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.9",
+    "karma-jasmine": "^0.3.6"
+  }
+}
