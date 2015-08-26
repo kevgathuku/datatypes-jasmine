@@ -13,7 +13,7 @@ function dataType(x) {
     case 'number':
       if (Math.round(x) === x) {
         return 'integer';
-      }      else {
+      } else {
         return 'float';
       }
 
